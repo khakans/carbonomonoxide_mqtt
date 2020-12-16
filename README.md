@@ -1,3 +1,7 @@
 # carbonmonoxide_mqtt
 
-please wait..
+this project used for monitoring app : https://github.com/khakans/flutter_mqtt_airquality
+
+# diagram scheme
+
+![diagram](https://raw.githubusercontent.com/khakans/carbonmonoxide_mqtt/master/diagram_system.png)
